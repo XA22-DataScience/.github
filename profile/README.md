@@ -1,12 +1,4 @@
-## Hi there 👋
+## Welcome to XA22 Data Science!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 这里是一些有用的链接！
+筑基课程学案：https://techx.feishu.cn/docx/doxcnRMOROtMzaNQ8yZABl2uI3c
