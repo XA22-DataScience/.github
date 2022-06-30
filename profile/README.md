@@ -8,6 +8,6 @@
 请随时检查Github，确保自己所使用的资料为最新版本！
 
 ### 这里是一些有用的链接！
-DS预习指北：https://xacademy22-02.feishu.cn/docx/doxcn8k3bzAGcPyExjhcYiSLicf
+DS预习指北：https://techx.feishu.cn/docx/doxcnRMOROtMzaNQ8yZABl2uI3c
 
-筑基课程学案：https://xacademy22-02.feishu.cn/docx/doxcnTYBCOY56lbztw3nr1L9Vld
+筑基课程学案：https://xacademy22-02.feishu.cn/docx/doxcn8k3bzAGcPyExjhcYiSLicf
